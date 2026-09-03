@@ -22,7 +22,7 @@ My work covers the full analytics process, from data cleaning and preparation to
 
 Analysis of 4,955 patient encounters examining patient volume, waiting time, satisfaction, demographics, length of stay, and patient outcomes.
 
-**[View Project →](#)**
+**[View Project →]([#](https://github.com/georgeblessing-data/hospital-patient-analytics))**
 
 More projects coming soon.
 
