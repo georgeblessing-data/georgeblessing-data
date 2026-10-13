@@ -24,6 +24,12 @@ Analysis of 4,955 patient encounters examining patient volume, waiting time, sat
 
 **[View Project →](https://github.com/georgeblessing-data/hospital-patient-analytics)**
 
+### Power BI Data Modelling Project
+
+Redesigned an initial Power BI data structure into a clean galaxy schema using fact and dimension tables, shared dimensions, Power Query transformations, and dynamic row-level security.
+
+[View Project](https://github.com/georgeblessing-data/power-bi-data-modeling)
+
 More projects coming soon.
 
 ## 📫 Connect With Me
